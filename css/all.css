@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+img{ max-width:100%}
+html{ }
+body{background:url(../images/bg.jpg) no-repeat  center  top #007092 ; width:1000px; margin:0px auto; line-height:21px}
+.clear{ clear:both}
+.menu li{ list-style:none}
+.logo{ position:absolute; top:50px; width:250px; height:100px; margin-left:40px}
+.banner{ position:relative; height:500px}
+
+.menu{ width:100%; text-align:center; float:left; background:#274166}
+.menu li a{ color:#fff}
+.menu li { float:left; margin:2px; padding:15px 30px ; width:134px}
+.menu li a:hover{color: antiquewhite;}
+.menu li h3:hover{color: antiquewhite;}
+
+.right{ float:right; width:660px; padding:20px}
+.left{ float:left; width:630px; padding:10px}
+.content { padding-bottom:20px;font-size:16px; line-height:26px; display:inline-block ; color:#111; width:100%}
+.box{ margin-top:20px; padding-bottom:10px;  background:#b3cad1; }
+.end{ clear:both; background:#274166; color:#fff; padding:30px 0; text-align:center;}
+.produce img{  margin:0 20px 20px 0}
+.produce { line-height:30px}
+.pad{ padding:20px; display:block}
+.pics p{ margin:1px; text-align:center}
+
+.imglist{ width:100%; margin:0 auto}
+.imglist li{ float:left; width:46%; margin:2% ;  text-align:center}
+.scrollleft{ margin:10px}
+.scrollleft li{ text-align:center; width:230px;font-size:12px; margin:7px; float:left}
+.news li{ padding:5px;}
+.scrollleft li img{ padding:2px;}
+
+.title{ text-align:center; color:#F00; padding:10px}
+.fl{ float:left}
+.js  div{ width:100%; clear:both; margin-bottom:20px; float:left}
+
+.js div img{ float:left; margin-right:20px} 
+.msg>div{ padding:10px 0}
+#submit2{ margin-top:30px; padding:10px; background:#993366; color:#fff; border:none; width:100%}
+.msg{ width:400px; margin:0 auto}
+.msg div span{ display:block;}
+.msg div input{ background:#a07ea6; padding:10px 0; width:100%; border:none;}
+.bar{ margin:0px ;background:#274166; clear:both; font-weight:bold; padding:15px}
+.bar h3{ color:#fff; font-size:16px;}.bar a{ color:#fff}
+a{
+	text-decoration: none;
+}
+.spjz{
+	margin-left: 32px;
+}
